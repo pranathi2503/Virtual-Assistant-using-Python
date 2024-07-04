@@ -1,9 +1,11 @@
 # Virtual-Assistant-using-Python
 
 Overview
+
 This Virtual Assistant is an application designed to assist users with various tasks using voice commands. It leverages speech recognition and text-to-speech technologies to interact with users and perform actions based on their commands.
 
 Features
+
 Voice Recognition: Recognizes voice commands to perform tasks.
 Text-to-Speech: Provides responses and feedback to users through synthesized speech.
 Wikipedia Search: Searches Wikipedia for information based on user queries.
@@ -16,6 +18,7 @@ Weather Information: Retrieves and displays weather information for specified ci
 Past Papers: Opens previous exam papers for subjects specified by the user.
 
 Technologies Used
+
 Speech Recognition: Utilizes the speech_recognition library for voice recognition.
 Text-to-Speech: Uses the pyttsx3 library for text-to-speech synthesis.
 Web Scraping: Scrapes data from web pages using BeautifulSoup and requests.
